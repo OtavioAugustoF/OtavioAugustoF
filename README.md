@@ -1,5 +1,4 @@
 - 👋 Olá, sou @OtavioAugustoF
 - 👀 Estou interessado em Utilizar o gitHub Para Fins Futuros De Trabalho e desenvolvimento.
-- 🌱 Atualmente estou aprendendo JavaScript
-- 📫 Como entrar em Contato Cmg?
+- 🌱 Atualmente estou Estudante De JavaScript
 - 😄 Pronomes: Ele|Dele
